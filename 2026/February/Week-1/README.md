@@ -1,11 +1,12 @@
 # Week 1 - February 2026
 
-## Week Goals
-- Focus areas: Arrays, Strings
-- Target: 5-7 problems
-- Difficulty mix: 3 Easy, 2 Medium, 1 Hard
+## 🎯 Week Goals
 
-## Daily Progress
+- **Focus areas**: Arrays, Strings
+- **Target**: 5-7 problems
+- **Difficulty mix**: 3 Easy, 2 Medium, 1 Hard
+
+## 📅 Daily Progress
 
 ### Day 1 - Feb 18, 2026
 - [x] Problem 1: Second Largest Element - Arrays ✅
@@ -16,7 +17,27 @@
 ### Day 3 - Feb 20, 2026
 - [ ] Problem 1: [Name]
 
-## Week Summary
-- Problems solved: 1/7
-- Topics covered: Arrays
-- Key learnings: Array sorting, handling duplicates, edge case handling
+### Day 4 - Feb 21, 2026
+- [ ] Problem 1: [Name]
+
+### Day 5 - Feb 22, 2026
+- [ ] Problem 1: [Name]
+
+### Day 6 - Feb 23, 2026
+- [ ] Problem 1: [Name]
+
+### Day 7 - Feb 24, 2026
+- [ ] Problem 1: [Name]
+
+## 📊 Week Summary
+
+- **Problems solved**: 1/7
+- **Topics covered**: Arrays
+- **Key learnings**: Array sorting, handling duplicates, edge case handling
+- **Time invested**: 45 mins
+
+## 🔥 Next Week Focus
+
+- Continue with Arrays (medium difficulty)
+- Start exploring Strings problems
+- Practice optimal solutions (reduce time complexity)
