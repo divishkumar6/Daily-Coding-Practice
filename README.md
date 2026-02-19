@@ -41,8 +41,8 @@ Consistency is key to becoming a better programmer. This repo helps me:
 
 - 🗓️ **Started**: February 18, 2026
 - 📅 **Current Week**: Week 1
-- ✅ **Problems Solved**: 1
-- 🔥 **Current Streak**: 1 day
+- ✅ **Problems Solved**: 2
+- 🔥 **Current Streak**: 2 days
 
 ## 🎯 My Goals
 

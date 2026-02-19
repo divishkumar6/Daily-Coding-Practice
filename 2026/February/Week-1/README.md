@@ -12,7 +12,7 @@
 - [x] Problem 1: Second Largest Element - Arrays ✅
 
 ### Day 2 - Feb 19, 2026
-- [ ] Problem 1: [Name]
+- [x] Problem 1: Check if Array Is Sorted and Rotated - Arrays ✅
 
 ### Day 3 - Feb 20, 2026
 - [ ] Problem 1: [Name]
@@ -31,10 +31,10 @@
 
 ## 📊 Week Summary
 
-- **Problems solved**: 1/7
+- **Problems solved**: 2/7
 - **Topics covered**: Arrays
-- **Key learnings**: Array sorting, handling duplicates, edge case handling
-- **Time invested**: 45 mins
+- **Key learnings**: Array sorting, handling duplicates, edge case handling, pivot finding, array rotation
+- **Time invested**: 1 hour 55 mins
 
 ## 🔥 Next Week Focus
 
