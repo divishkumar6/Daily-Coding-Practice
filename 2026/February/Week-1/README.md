@@ -15,7 +15,7 @@
 - [x] Problem 1: Check if Array Is Sorted and Rotated - Arrays ✅
 
 ### Day 3 - Feb 20, 2026
-- [ ] Problem 1: [Name]
+- [x] Problem 1: Remove Duplicates from Sorted Array - Arrays ✅
 
 ### Day 4 - Feb 21, 2026
 - [ ] Problem 1: [Name]
@@ -31,10 +31,10 @@
 
 ## 📊 Week Summary
 
-- **Problems solved**: 2/7
+- **Problems solved**: 3/7
 - **Topics covered**: Arrays
-- **Key learnings**: Array sorting, handling duplicates, edge case handling, pivot finding, array rotation
-- **Time invested**: 1 hour 55 mins
+- **Key learnings**: Array sorting, handling duplicates, edge case handling, pivot finding, array rotation, in-place modification, two-pointer technique concepts
+- **Time invested**: 2 hours 55 mins
 
 ## 🔥 Next Week Focus
 
