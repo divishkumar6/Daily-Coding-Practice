@@ -1,6 +1,6 @@
 // Problem: Rotate Array
 // Difficulty: Medium
-// Date: 2026-02-21
+// Date: 2026-02-20
 // Source: LeetCode #189
 
 /**

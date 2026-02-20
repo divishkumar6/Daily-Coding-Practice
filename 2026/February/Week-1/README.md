@@ -17,9 +17,10 @@
 
 ### Day 3 - Feb 20, 2026
 - [x] Problem 1: Remove Duplicates from Sorted Array - Arrays ✅
+- [x] Problem 2: Rotate Array - Arrays (Medium) ✅ 🎉
 
 ### Day 4 - Feb 21, 2026
-- [x] Problem 1: Rotate Array - Arrays (Medium) ✅ 🎉
+- [ ] Problem 1: [Name]
 
 ### Day 5 - Feb 22, 2026
 - [ ] Problem 1: [Name]
@@ -36,7 +37,7 @@
 - **Difficulty breakdown**: 3 Easy, 1 Medium
 - **Topics covered**: Arrays (sorting, duplicates, rotation, in-place modification)
 - **Key learnings**: Array sorting, handling duplicates, edge case handling, pivot finding, array rotation, in-place modification, two-pointer technique concepts, modulo arithmetic, space-time trade-offs
-- **Time invested**: 3 hours 55 mins
+- **Time invested**: 4 hours 55 mins
 - **Milestone**: First medium problem completed! 🎉
 
 ## 🔥 Next Week Focus
