@@ -5,7 +5,7 @@
 - **Focus areas**: Arrays, Strings
 - **Target**: 5-7 problems
 - **Difficulty mix**: 3 Easy, 2 Medium, 1 Hard
-- **Progress**: ✅ 3 Easy, ✅ 1 Medium
+- **Progress**: ✅ 4 Easy, ✅ 1 Medium
 
 ## 📅 Daily Progress
 
@@ -26,18 +26,18 @@
 - [ ] Problem 1: [Name]
 
 ### Day 6 - Feb 23, 2026
-- [ ] Problem 1: [Name]
+- [x] Problem 1: Move Zeroes - Arrays ✅
 
 ### Day 7 - Feb 24, 2026
 - [ ] Problem 1: [Name]
 
 ## 📊 Week Summary
 
-- **Problems solved**: 4/7
-- **Difficulty breakdown**: 3 Easy, 1 Medium
-- **Topics covered**: Arrays (sorting, duplicates, rotation, in-place modification)
-- **Key learnings**: Array sorting, handling duplicates, edge case handling, pivot finding, array rotation, in-place modification, two-pointer technique concepts, modulo arithmetic, space-time trade-offs
-- **Time invested**: 4 hours 55 mins
+- **Problems solved**: 5/7
+- **Difficulty breakdown**: 4 Easy, 1 Medium
+- **Topics covered**: Arrays (sorting, duplicates, rotation, in-place modification, element ordering)
+- **Key learnings**: Array sorting, handling duplicates, edge case handling, pivot finding, array rotation, in-place modification, two-pointer technique concepts, modulo arithmetic, space-time trade-offs, element reordering
+- **Time invested**: 5 hours 45 mins
 - **Milestone**: First medium problem completed! 🎉
 
 ## 🔥 Next Week Focus
