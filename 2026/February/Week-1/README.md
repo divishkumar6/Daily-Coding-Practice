@@ -5,7 +5,7 @@
 - **Focus areas**: Arrays, Strings
 - **Target**: 5-7 problems
 - **Difficulty mix**: 3 Easy, 2 Medium, 1 Hard
-- **Progress**: ✅ 6 Easy, ✅ 1 Medium - COMPLETE! 🎉
+- **Progress**: ✅ 7 Easy, ✅ 1 Medium - EXCEEDED GOAL! 🎉
 
 ## 📅 Daily Progress
 
@@ -31,21 +31,22 @@
 
 ### Day 7 - Feb 25, 2026
 - [x] Problem 1: Max Consecutive Ones - Arrays ✅
+- [x] Problem 2: Union of Two Sorted Arrays - Arrays ✅
 
 ## 🎉 Week 1 Complete!
 
-**All 7 problems completed! Goal achieved!** 🎊
+**All 8 problems completed! Exceeded goal!** 🎊
 
 ## 📊 Week Summary
 
-- **Problems solved**: 7/7 ✅
-- **Difficulty breakdown**: 6 Easy, 1 Medium
-- **Topics covered**: Arrays (sorting, duplicates, rotation, in-place modification, element ordering, searching, consecutive counting)
-- **Key learnings**: Array sorting, handling duplicates, edge case handling, pivot finding, array rotation, in-place modification, two-pointer technique concepts, modulo arithmetic, space-time trade-offs, element reordering, linear search fundamentals, consecutive element tracking
-- **Time invested**: 7 hours 30 mins
+- **Problems solved**: 8/7 ✅ (exceeded target!)
+- **Difficulty breakdown**: 7 Easy, 1 Medium
+- **Topics covered**: Arrays (sorting, duplicates, rotation, in-place modification, element ordering, searching, consecutive counting, merging)
+- **Key learnings**: Array sorting, handling duplicates, edge case handling, pivot finding, array rotation, in-place modification, two-pointer technique concepts, modulo arithmetic, space-time trade-offs, element reordering, linear search fundamentals, consecutive element tracking, array union operations
+- **Time invested**: 9 hours 5 mins
 - **Milestones**: 
   - ✅ First medium problem completed!
-  - ✅ Weekly goal achieved (7/7)!
+  - ✅ Weekly goal exceeded (8/7)!
   - ✅ Maintained consistent practice streak!
 
 ## 🔥 Next Week Focus
