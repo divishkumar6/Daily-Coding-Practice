@@ -27,5 +27,5 @@
 
 - **Solved**: 1/7
 - **Difficulty**: 1 Easy, 0 Medium
-- **Time**: 45 mins
+- **Time**: 25 mins
 - **Topics**: Arrays, Math, Bit Manipulation
