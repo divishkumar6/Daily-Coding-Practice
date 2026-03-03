@@ -41,10 +41,10 @@ Consistency is key to becoming a better programmer. This repo helps me:
 
 - 🗓️ **Started**: February 18, 2026
 - 📅 **Current Week**: Week 1
-- ✅ **Problems Solved**: 9 (8 Easy, 1 Medium)
+- ✅ **Problems Solved**: 10 (9 Easy, 1 Medium)
 - 🔥 **Current Streak**: 6 days
 - 🎉 **Week 1**: Complete (8/7 - exceeded!)
-- 📅 **Week 2**: In Progress (1/7)
+- 📅 **Week 2**: In Progress (2/7)
 
 ## 🎯 My Goals
 

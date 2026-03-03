@@ -10,6 +10,7 @@
 
 ### Day 1 - Mar 3, 2026
 - [x] Find Missing Number - Arrays ✅
+- [x] Single Number - Arrays (XOR!) ✅
 
 ### Day 2 - Mar 4, 2026
 - [ ] TBD
@@ -25,7 +26,7 @@
 
 ## 📊 Summary
 
-- **Solved**: 1/7
-- **Difficulty**: 1 Easy, 0 Medium
-- **Time**: 25 mins
-- **Topics**: Arrays, Math, Bit Manipulation
+- **Solved**: 2/7
+- **Difficulty**: 2 Easy, 0 Medium
+- **Time**: 40 mins
+- **Topics**: Arrays, Math, Bit Manipulation (XOR)
