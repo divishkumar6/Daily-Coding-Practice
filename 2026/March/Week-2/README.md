@@ -19,14 +19,14 @@
 - [ ] TBD
 
 ### Day 4 - Mar 6, 2026
-- [ ] TBD
+- [x] Check if Binary String Has at Most One Segment of Ones - Strings ✅
 
 ### Day 5 - Mar 7, 2026
 - [ ] TBD
 
 ## 📊 Summary
 
-- **Solved**: 2/7
-- **Difficulty**: 2 Easy, 0 Medium
-- **Time**: 40 mins
-- **Topics**: Arrays, Math, Bit Manipulation (XOR)
+- **Solved**: 3/7
+- **Difficulty**: 3 Easy, 0 Medium
+- **Time**: 60 mins
+- **Topics**: Arrays, Strings, Math, Bit Manipulation (XOR)
