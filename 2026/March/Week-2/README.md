@@ -24,9 +24,12 @@
 ### Day 5 - Mar 7, 2026
 - [ ] TBD
 
+### Day 6 - Mar 10, 2026
+- [x] Single Number - I - Arrays (XOR!) ✅
+
 ## 📊 Summary
 
-- **Solved**: 3/7
-- **Difficulty**: 3 Easy, 0 Medium
-- **Time**: 60 mins
-- **Topics**: Arrays, Strings, Math, Bit Manipulation (XOR)
+- **Solved**: 4/7
+- **Difficulty**: 4 Easy, 0 Medium
+- **Time**: 65 mins
+- **Topics**: Arrays, Strings, Math, Bit Manipulation (XOR Master!)
